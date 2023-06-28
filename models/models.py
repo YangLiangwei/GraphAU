@@ -274,11 +274,9 @@ class GraphAU(MF):
             user_e_agg = h_agg['user'][users[mask]]
             item_e_agg = h_agg['item'][items[mask]]
             align.append((self.alignment(user_e, item_e_agg) + self.alignment(user_e_agg, item_e)) / 2)
-            uniform.append((self.uniformity(user_e_agg) + self.uniformity(item_e_agg)) / 2)
         align = torch.mean(self.decay_weight * torch.stack(align))
-        uniform = torch.mean(self.decay_weight * torch.stack(uniform))
         # align = align[-1]
 
-        loss = align + self.gamma * uniform
+        loss = align + self.gamma * uniform[0]
         return loss
 

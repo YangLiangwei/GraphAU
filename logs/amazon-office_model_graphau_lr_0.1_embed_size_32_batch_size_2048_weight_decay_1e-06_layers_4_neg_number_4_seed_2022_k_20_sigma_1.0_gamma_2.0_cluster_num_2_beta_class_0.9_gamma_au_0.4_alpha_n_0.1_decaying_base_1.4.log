@@ -1,0 +1,77 @@
+Wed, 28 Jun 2023 00:34:10  INFO loadding data
+Wed, 28 Jun 2023 00:34:10  INFO reading positive train data
+Wed, 28 Jun 2023 00:34:10  INFO reading valid data
+Wed, 28 Jun 2023 00:34:10  INFO reading test data
+Wed, 28 Jun 2023 00:34:16  INFO train loss = 1.2867667858417218
+Wed, 28 Jun 2023 00:34:18  INFO train loss = 0.5854548674363357
+Wed, 28 Jun 2023 00:34:20  INFO train loss = 0.22775044808020958
+Wed, 28 Jun 2023 00:34:22  INFO train loss = 0.054242491722106934
+Wed, 28 Jun 2023 00:34:25  INFO train loss = -0.026673197746276855
+Wed, 28 Jun 2023 00:34:27  INFO train loss = -0.06896936893463135
+Wed, 28 Jun 2023 00:34:29  INFO train loss = -0.09123748082381028
+Wed, 28 Jun 2023 00:34:31  INFO train loss = -0.10592993406149057
+Wed, 28 Jun 2023 00:34:34  INFO train loss = -0.1147537873341487
+Wed, 28 Jun 2023 00:34:37  INFO train loss = -0.12314220575185922
+Wed, 28 Jun 2023 00:34:41  INFO train loss = -0.12794037048633283
+Wed, 28 Jun 2023 00:34:45  INFO train loss = -0.13449639540452224
+Wed, 28 Jun 2023 00:34:46  INFO loss: tensor([0.8243], device='cuda:0'), Performance is better... saving the model
+Wed, 28 Jun 2023 00:34:51  INFO train loss = -0.13946043528043306
+Wed, 28 Jun 2023 00:34:52  INFO loss: tensor([0.7718], device='cuda:0'), Performance is better... saving the model
+Wed, 28 Jun 2023 00:34:56  INFO train loss = -0.14417803287506104
+Wed, 28 Jun 2023 00:34:58  INFO loss: tensor([0.7271], device='cuda:0'), Performance is better... saving the model
+Wed, 28 Jun 2023 00:35:02  INFO train loss = -0.1463305766765888
+Wed, 28 Jun 2023 00:35:03  INFO loss: tensor([0.6864], device='cuda:0'), Performance is better... saving the model
+Wed, 28 Jun 2023 00:35:08  INFO train loss = -0.1501158567575308
+Wed, 28 Jun 2023 00:35:09  INFO loss: tensor([0.6484], device='cuda:0'), Performance is better... saving the model
+Wed, 28 Jun 2023 00:35:14  INFO train loss = -0.1519446739783654
+Wed, 28 Jun 2023 00:35:15  INFO loss: tensor([0.6238], device='cuda:0'), Performance is better... saving the model
+Wed, 28 Jun 2023 00:35:19  INFO train loss = -0.15210700035095215
+Wed, 28 Jun 2023 00:35:21  INFO loss: tensor([0.6022], device='cuda:0'), Performance is better... saving the model
+Wed, 28 Jun 2023 00:35:25  INFO train loss = -0.1517572311254648
+Wed, 28 Jun 2023 00:35:26  INFO loss: tensor([0.5967], device='cuda:0'), Performance is better... saving the model
+Wed, 28 Jun 2023 00:35:31  INFO train loss = -0.1509691201723539
+Wed, 28 Jun 2023 00:35:32  INFO loss: tensor([0.5917], device='cuda:0'), Performance is better... saving the model
+Wed, 28 Jun 2023 00:35:37  INFO train loss = -0.15137008520273063
+Wed, 28 Jun 2023 00:35:38  INFO loss: tensor([0.5830], device='cuda:0'), Performance is better... saving the model
+Wed, 28 Jun 2023 00:35:42  INFO train loss = -0.15163128192608172
+Wed, 28 Jun 2023 00:35:44  INFO loss: tensor([0.5870], device='cuda:0'), EarlyStopping counter: 1 out of 10
+Wed, 28 Jun 2023 00:35:48  INFO train loss = -0.1502380554492657
+Wed, 28 Jun 2023 00:35:49  INFO loss: tensor([0.5838], device='cuda:0'), EarlyStopping counter: 2 out of 10
+Wed, 28 Jun 2023 00:35:54  INFO train loss = -0.15114459624657264
+Wed, 28 Jun 2023 00:35:55  INFO loss: tensor([0.5844], device='cuda:0'), EarlyStopping counter: 3 out of 10
+Wed, 28 Jun 2023 00:36:00  INFO train loss = -0.14992778117840105
+Wed, 28 Jun 2023 00:36:01  INFO loss: tensor([0.5809], device='cuda:0'), Performance is better... saving the model
+Wed, 28 Jun 2023 00:36:05  INFO train loss = -0.15150140799008882
+Wed, 28 Jun 2023 00:36:07  INFO loss: tensor([0.5865], device='cuda:0'), EarlyStopping counter: 1 out of 10
+Wed, 28 Jun 2023 00:36:11  INFO train loss = -0.15130738111642691
+Wed, 28 Jun 2023 00:36:12  INFO loss: tensor([0.5878], device='cuda:0'), EarlyStopping counter: 2 out of 10
+Wed, 28 Jun 2023 00:36:17  INFO train loss = -0.15203182513897234
+Wed, 28 Jun 2023 00:36:18  INFO loss: tensor([0.5884], device='cuda:0'), EarlyStopping counter: 3 out of 10
+Wed, 28 Jun 2023 00:36:22  INFO train loss = -0.1517013036287748
+Wed, 28 Jun 2023 00:36:24  INFO loss: tensor([0.5881], device='cuda:0'), EarlyStopping counter: 4 out of 10
+Wed, 28 Jun 2023 00:36:28  INFO train loss = -0.1525572446676401
+Wed, 28 Jun 2023 00:36:30  INFO loss: tensor([0.5869], device='cuda:0'), EarlyStopping counter: 5 out of 10
+Wed, 28 Jun 2023 00:36:34  INFO train loss = -0.1524208142207219
+Wed, 28 Jun 2023 00:36:35  INFO loss: tensor([0.5896], device='cuda:0'), EarlyStopping counter: 6 out of 10
+Wed, 28 Jun 2023 00:36:40  INFO train loss = -0.15306293964385986
+Wed, 28 Jun 2023 00:36:41  INFO loss: tensor([0.5937], device='cuda:0'), EarlyStopping counter: 7 out of 10
+Wed, 28 Jun 2023 00:36:46  INFO train loss = -0.15298104286193848
+Wed, 28 Jun 2023 00:36:47  INFO loss: tensor([0.5900], device='cuda:0'), EarlyStopping counter: 8 out of 10
+Wed, 28 Jun 2023 00:36:51  INFO train loss = -0.1518401732811561
+Wed, 28 Jun 2023 00:36:53  INFO loss: tensor([0.5924], device='cuda:0'), EarlyStopping counter: 9 out of 10
+Wed, 28 Jun 2023 00:36:57  INFO train loss = -0.1524978601015531
+Wed, 28 Jun 2023 00:36:58  INFO loss: tensor([0.5996], device='cuda:0'), EarlyStopping counter: 10 out of 10
+Wed, 28 Jun 2023 00:36:58  INFO loading best model for test
+Wed, 28 Jun 2023 00:36:58  INFO begin testing
+Wed, 28 Jun 2023 00:37:03  INFO For top5, metric recall = 0.039254593194147744
+Wed, 28 Jun 2023 00:37:03  INFO For top10, metric recall = 0.062295964786322634
+Wed, 28 Jun 2023 00:37:03  INFO For top20, metric recall = 0.10032054815393684
+Wed, 28 Jun 2023 00:37:03  INFO For top40, metric recall = 0.15759706641245416
+Wed, 28 Jun 2023 00:37:03  INFO For top5, metric hit_ratio = 0.08619192357794181
+Wed, 28 Jun 2023 00:37:03  INFO For top10, metric hit_ratio = 0.13330438558402083
+Wed, 28 Jun 2023 00:37:03  INFO For top20, metric hit_ratio = 0.20234476769431176
+Wed, 28 Jun 2023 00:37:03  INFO For top40, metric hit_ratio = 0.29635258358662614
+Wed, 28 Jun 2023 00:37:03  INFO For top5, metric ndcg = 0.03369694625667513
+Wed, 28 Jun 2023 00:37:03  INFO For top10, metric ndcg = 0.04241715731287788
+Wed, 28 Jun 2023 00:37:03  INFO For top20, metric ndcg = 0.05452268785520862
+Wed, 28 Jun 2023 00:37:03  INFO For top40, metric ndcg = 0.06935993898806929

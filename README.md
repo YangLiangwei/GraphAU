@@ -6,5 +6,4 @@
     
     dataset currently support amazon-office amazon-beauty amazon-toys gowalla
 
-* Any questions contact Liangwei Yang (lyang84@uic.edu)
 

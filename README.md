@@ -1,4 +1,7 @@
-## This is a repo for GraphAU.  
+# Official Implementation of GraphAU.  
+
+A Pytorch and DGL implementation for the CIKM 2023 paper below:
+[Graph-based Alignment and Uniformity for Recommendation](https://arxiv.org/abs/2308.09292)
   
 
 * How to use:  
@@ -12,4 +15,15 @@
     
     dataset currently support amazon-office amazon-beauty amazon-toys gowalla
 
+* If you use this code, please add the following citation:
+
+``````bibtex
+@article{yang2023graph,
+  title={Graph-based Alignment and Uniformity for Recommendation},
+  author={Yang, Liangwei and Liu, Zhiwei and Wang, Chen and Yang, Mingdai and Liu, Xiaolong and Ma, Jing and Yu, Philip S},
+  journal={arXiv preprint arXiv:2308.09292},
+  year={2023}
+}
+
+``````
 

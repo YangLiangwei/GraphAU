@@ -1,6 +1,6 @@
 # Official Implementation of GraphAU.  
 
-A Pytorch and DGL implementation for the CIKM 2023 paper below:
+An official Pytorch and DGL implementation for the CIKM 2023 paper (Best Short Paper Honorable Mention) below:
 [Graph-based Alignment and Uniformity for Recommendation](https://arxiv.org/abs/2308.09292)
   
 
@@ -18,10 +18,11 @@ A Pytorch and DGL implementation for the CIKM 2023 paper below:
 * If you use this code, please add the following citation:
 
 ``````bibtex
-@article{yang2023graph,
+@inproceedings{yang2023graph,
   title={Graph-based Alignment and Uniformity for Recommendation},
   author={Yang, Liangwei and Liu, Zhiwei and Wang, Chen and Yang, Mingdai and Liu, Xiaolong and Ma, Jing and Yu, Philip S},
-  journal={arXiv preprint arXiv:2308.09292},
+  booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages={4395--4399},
   year={2023}
 }
 
